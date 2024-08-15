@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+ <symbol
+       id="bluesky">
+
+<svg
+   width="160"
+   height="160"
+   viewBox="0 0 160 160.00001"
+   version="1.1"
+   id="svg1466"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="bsky-icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1468"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="1.2810466"
+     inkscape:cx="149.09684"
+     inkscape:cy="247.84423"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1463" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 37.668972,18.261424 c 17.593733,13.208265 36.517792,39.989125 43.465749,54.361295 6.94849,-14.37111 25.871489,-41.1533 43.465749,-54.361295 12.69471,-9.5305557 33.26342,-16.9047577 33.26342,6.560344 0,4.686301 -2.68684,39.367351 -4.2627,44.997691 -5.47766,19.57493 -25.43811,24.56762 -43.19323,21.54581 31.03562,5.28214 38.9308,22.778511 21.88024,40.274871 -32.382349,33.22903 -46.542849,-8.33728 -50.172929,-18.98808 -0.66517,-1.95255 -0.97642,-2.86597 -0.981,-2.08926 -0.005,-0.77674 -0.31583,0.13671 -0.98099,2.08926 -3.6285,10.6508 -17.788736,52.21816 -50.172942,18.98808 -17.050808,-17.49636 -9.155906,-34.993791 21.880248,-40.274871 -17.755658,3.02181 -37.716354,-1.97091 -43.1932293,-21.54581 -1.575911,-5.63087 -4.262702,-40.31192 -4.262702,-44.997691 0,-23.4651017 20.5692373,-16.0908997 33.2634163,-6.560344 z"
+       fill="#1185fe"
+       id="path824"
+       style="stroke-width:0.264583" />
+  </g>
+</svg>
+</symbol>

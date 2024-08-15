@@ -22,8 +22,8 @@ title: Journal marqué
 email: joachimsene@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Journal 'markdown' de Joachim Séné
-# baseurl: "/jmd" # the subpath of your site, e.g. /blog
-# url: "https://jsene.net" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/jmd" # the subpath of your site, e.g. /blog
+url: "https://jsene.net" # the base hostname & protocol for your site, e.g. http://example.com
 
 encoding: "utf-8"
 markdown: kramdown
